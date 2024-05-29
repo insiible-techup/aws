@@ -4,7 +4,7 @@
 
 [What is AWS](https://github.com/insiible-techup/aws/blob/main/1.what-is-aws.md)
 
-[aws Services](https://github.com/insiible-techup/aws/blob/main/2.aws-services.md)
+[AWS Services](https://github.com/insiible-techup/aws/blob/main/2.aws-services.md)
 
 [Benefits-of-aws](https://github.com/insiible-techup/aws/blob/main/3.Benefit-of-aws.md)
 
